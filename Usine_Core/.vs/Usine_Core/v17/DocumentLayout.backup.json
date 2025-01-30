@@ -1,0 +1,1110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\crm\\crmtelecallingrxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\crm\\crmtelecallingrxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\crm\\crmenquriesrxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\crm\\crmenquriesrxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\inventory\\invscopeofsupplycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\inventory\\invscopeofsupplycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\crm\\calllogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\crm\\calllogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\crm\\crmdiscountlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\crm\\crmdiscountlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\crm\\crmleadenquirycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\crm\\crmleadenquirycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\crm\\crmgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\crm\\crmgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\crm\\crmenquiryregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\crm\\crmenquiryregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\accounts\\accountsassigncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\accounts\\accountsassigncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\crm\\crmdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\crm\\crmdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\crm\\crmquotationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\crm\\crmquotationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\crm\\crmbillsubmissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\crm\\crmbillsubmissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\crm\\crmleadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\crm\\crmleadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\crm\\crmrxsalepricescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\crm\\crmrxsalepricescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\crm\\crmsetupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\crm\\crmsetupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\crm\\crmtaxassigningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\crm\\crmtaxassigningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\crm\\crmtargetsettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\crm\\crmtargetsettingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\purchases\\partydetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\purchases\\partydetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\crm\\crmcustomergroupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\crm\\crmcustomergroupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\sales\\saledespatchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\sales\\saledespatchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\crm\\crmpricelistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\crm\\crmpricelistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\models\\usinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\models\\usinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\hrd\\hrdemployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\hrd\\hrdemployeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\crm\\crmadvancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\crm\\crmadvancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\others\\dtos\\crmleadcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\others\\dtos\\crmleadcontactdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\purchases\\purchaserequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\purchases\\purchaserequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Win10office\\AppData\\Local\\Temp\\.vsdbgsrc\\17ce62f2b50ff9e186ed0c2e6fcd8a7bf4be7dbec32fbf4e8b790dcb8d68bbe1\\ActionMethodExecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\admin\\logincontrolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\admin\\logincontrolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\admin\\adminrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\admin\\adminrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\admin\\admintaxescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\admin\\admintaxescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\admin\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\admin\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\others\\dtos\\crmleadseventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\others\\dtos\\crmleadseventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\others\\dtos\\crmleadsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\others\\dtos\\crmleadsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\models\\crmleads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\models\\crmleads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\models\\crmleadtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\models\\crmleadtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\others\\dtos\\crmleadtitledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\others\\dtos\\crmleadtitledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\models\\crmleadsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\models\\crmleadsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\models\\crmleadcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\models\\crmleadcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\models\\crmleadquotationdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\models\\crmleadquotationdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\models\\crmleadenquirydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\models\\crmleadenquirydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\models\\crmleadsodetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\models\\crmleadsodetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Win10office\\Downloads\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMLeadController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Win10office\\AppData\\Local\\Temp\\.vsdbgsrc\\4f9d1c51880accfe0baa2489491fa85e22827e5652c347195241a04ca5856d6f\\ControllerActionInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Win10office\\Downloads\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CallLogsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\others\\dtos\\crmremainderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\others\\dtos\\crmremainderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\crm\\crmsaleordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\crm\\crmsaleordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\models\\crmleadsolinesdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\models\\crmleadsolinesdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\models\\crmleadquotationlinedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\models\\crmleadquotationlinedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\models\\crmleadenquirylinedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\models\\crmleadenquirylinedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\inventory\\invmaterialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\inventory\\invmaterialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\others\\dtos\\requestuploadmultiple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\others\\dtos\\requestuploadmultiple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\models\\crmremainder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\models\\crmremainder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\models\\crmleadreminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\models\\crmleadreminder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\others\\dtos\\crmleadreminderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\others\\dtos\\crmleadreminderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\others\\dtos\\crmcalltypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\others\\dtos\\crmcalltypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\controllers\\accounts\\accaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\controllers\\accounts\\accaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\others\\dtos\\crmleadcitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\others\\dtos\\crmleadcitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\models\\crmleadcity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\models\\crmleadcity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\models\\crmcalltypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\models\\crmcalltypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Win10office\\AppData\\Local\\SourceServer\\2619bf7245dfde663a275bb48910b49e73ded084d28aa8a146fd41ed3ab94551\\Usine_Core\\Usine_Core\\Models\\crmleadsource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\models\\crmcalllogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\models\\crmcalllogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\others\\dtos\\crmtelecallleadcustdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\others\\dtos\\crmtelecallleadcustdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\models\\crmtelecallleadcust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\models\\crmtelecallleadcust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|d:\\latest_github\\github_erp\\erp\\erp_sales_api\\erp_sales_api\\usine_core\\usine_core\\others\\dtos\\crmcalllogsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BAAA0-5146-4FB6-BF9C-D4A489AFB07F}|Usine_Core\\Usine_Core.csproj|solutionrelative:usine_core\\others\\dtos\\crmcalllogsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CRMEnquriesRXController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMEnquriesRXController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\crm\\CRMEnquriesRXController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMEnquriesRXController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\crm\\CRMEnquriesRXController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:46:45.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrmLeadEnquiryController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CrmLeadEnquiryController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\crm\\CrmLeadEnquiryController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CrmLeadEnquiryController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\crm\\CrmLeadEnquiryController.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAlwNgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:28:25.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CRMDiscountListController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMDiscountListController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\crm\\CRMDiscountListController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMDiscountListController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\crm\\CRMDiscountListController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAHkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:52:57.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CallLogsController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CallLogsController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\crm\\CallLogsController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CallLogsController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\crm\\CallLogsController.cs",
+              "ViewState": "AgIAAEABAAAAAAAAAAAlwFcBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:56:49.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CRMTeleCallingRXController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMTeleCallingRXController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\crm\\CRMTeleCallingRXController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMTeleCallingRXController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\crm\\CRMTeleCallingRXController.cs",
+              "ViewState": "AgIAAPwDAAAAAAAAAAAlwPsDAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:49:28.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvScopeofSupplyController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\Inventory\\InvScopeofSupplyController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\Inventory\\InvScopeofSupplyController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\Inventory\\InvScopeofSupplyController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\Inventory\\InvScopeofSupplyController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T11:15:35.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CRMGeneral.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMGeneral.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\crm\\CRMGeneral.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMGeneral.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\crm\\CRMGeneral.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:49:18.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CRMEnquiryRegisterController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMEnquiryRegisterController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\crm\\CRMEnquiryRegisterController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMEnquiryRegisterController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\crm\\CRMEnquiryRegisterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:48:47.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CRMQuotationsController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMQuotationsController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\crm\\CRMQuotationsController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMQuotationsController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\crm\\CRMQuotationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:53:24.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CRMBillSubmissionsController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMBillSubmissionsController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\crm\\CRMBillSubmissionsController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMBillSubmissionsController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\crm\\CRMBillSubmissionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:37:57.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CRMLeadController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMLeadController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\crm\\CRMLeadController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMLeadController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\crm\\CRMLeadController.cs",
+              "ViewState": "AgIAAGwCAAAAAAAAAAAlwHwCAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:20:07.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CRMDashboardController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMDashboardController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\crm\\CRMDashboardController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMDashboardController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\crm\\CRMDashboardController.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAQwA8BAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:41:20.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountsAssignController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\accounts\\AccountsAssignController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\accounts\\AccountsAssignController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\accounts\\AccountsAssignController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\accounts\\AccountsAssignController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:40:12.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CRMRXSalePricesController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMRXSalePricesController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\crm\\CRMRXSalePricesController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMRXSalePricesController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\crm\\CRMRXSalePricesController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:18:31.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CRMSetupController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMSetupController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\crm\\CRMSetupController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMSetupController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\crm\\CRMSetupController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:15:46.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CRMTargetSettingsController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMTargetSettingsController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\crm\\CRMTargetSettingsController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMTargetSettingsController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\crm\\CRMTargetSettingsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAlwB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T10:09:21.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PartyDetailsController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\Purchases\\PartyDetailsController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\Purchases\\PartyDetailsController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\Purchases\\PartyDetailsController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\Purchases\\PartyDetailsController.cs",
+              "ViewState": "AgIAAIMCAAAAAAAAAAAlwJgCAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T09:59:11.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SaleDespatchesController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\sales\\SaleDespatchesController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\sales\\SaleDespatchesController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\sales\\SaleDespatchesController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\sales\\SaleDespatchesController.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAlwNIAAABuAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T09:31:22.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CRMPriceListsController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMPriceListsController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\crm\\CRMPriceListsController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMPriceListsController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\crm\\CRMPriceListsController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:23:10.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "General.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\General.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\General.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\General.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\General.cs",
+              "ViewState": "AgIAAHYCAAAAAAAAAAAAAH8CAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:18:40.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CRMTaxAssigningController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMTaxAssigningController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\crm\\CRMTaxAssigningController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMTaxAssigningController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\crm\\CRMTaxAssigningController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:16:55.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UsineContext.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\UsineContext.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Models\\UsineContext.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\UsineContext.cs",
+              "RelativeToolTip": "Usine_Core\\Models\\UsineContext.cs",
+              "ViewState": "AgIAADsBAAAAAAAAAAAkwAwBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:35:30.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CRMCustomerGroupsController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMCustomerGroupsController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\crm\\CRMCustomerGroupsController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMCustomerGroupsController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\crm\\CRMCustomerGroupsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:38:31.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PurchaseRequestsController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\Purchases\\PurchaseRequestsController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\Purchases\\PurchaseRequestsController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\Purchases\\PurchaseRequestsController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\Purchases\\PurchaseRequestsController.cs",
+              "ViewState": "AgIAAKkBAAAAAAAAAAAawLcBAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:56:00.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HRDEmployeesController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\hrd\\HRDEmployeesController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\hrd\\HRDEmployeesController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\hrd\\HRDEmployeesController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\hrd\\HRDEmployeesController.cs",
+              "ViewState": "AgIAAIkCAAAAAAAAAAAtwJ0CAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T04:54:33.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ActionMethodExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\Win10office\\AppData\\Local\\Temp\\.vsdbgsrc\\17ce62f2b50ff9e186ed0c2e6fcd8a7bf4be7dbec32fbf4e8b790dcb8d68bbe1\\ActionMethodExecutor.cs",
+              "ToolTip": "C:\\Users\\Win10office\\AppData\\Local\\Temp\\.vsdbgsrc\\17ce62f2b50ff9e186ed0c2e6fcd8a7bf4be7dbec32fbf4e8b790dcb8d68bbe1\\ActionMethodExecutor.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAlwCAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:27:18.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CRMAdvancesController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMAdvancesController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\crm\\CRMAdvancesController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMAdvancesController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\crm\\CRMAdvancesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T12:37:51.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "crmLeadContactDto.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\crmLeadContactDto.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\others\\dtos\\crmLeadContactDto.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\crmLeadContactDto.cs",
+              "RelativeToolTip": "Usine_Core\\others\\dtos\\crmLeadContactDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:00:53.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\admin\\CountriesController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\admin\\CountriesController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\admin\\CountriesController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\admin\\CountriesController.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAlwIwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T06:21:23.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminTaxesController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\admin\\AdminTaxesController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\admin\\AdminTaxesController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\admin\\AdminTaxesController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\admin\\AdminTaxesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAlwBsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T06:43:24.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginControlController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\admin\\LoginControlController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\admin\\LoginControlController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\admin\\LoginControlController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\admin\\LoginControlController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T07:25:57.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "crmleads.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\crmleads.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Models\\crmleads.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\crmleads.cs",
+              "RelativeToolTip": "Usine_Core\\Models\\crmleads.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAlwCwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:34:20.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CrmLeadsEventDto.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\CrmLeadsEventDto.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\others\\dtos\\CrmLeadsEventDto.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\CrmLeadsEventDto.cs",
+              "RelativeToolTip": "Usine_Core\\others\\dtos\\CrmLeadsEventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:29:37.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminRolesController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\admin\\AdminRolesController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\admin\\AdminRolesController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\admin\\AdminRolesController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\admin\\AdminRolesController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAlwDoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T03:30:13.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "crmleadsdto.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\crmleadsdto.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\others\\dtos\\crmleadsdto.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\crmleadsdto.cs",
+              "RelativeToolTip": "Usine_Core\\others\\dtos\\crmleadsdto.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:35:01.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "crmLeadContact.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\crmLeadContact.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Models\\crmLeadContact.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\crmLeadContact.cs",
+              "RelativeToolTip": "Usine_Core\\Models\\crmLeadContact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:00:40.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "crmleadtitle.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\crmleadtitle.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Models\\crmleadtitle.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\crmleadtitle.cs",
+              "RelativeToolTip": "Usine_Core\\Models\\crmleadtitle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:38:33.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "crmleadtitledto.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\crmleadtitledto.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\others\\dtos\\crmleadtitledto.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\crmleadtitledto.cs",
+              "RelativeToolTip": "Usine_Core\\others\\dtos\\crmleadtitledto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:39:19.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "crmleadsource.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\crmleadsource.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Models\\crmleadsource.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\crmleadsource.cs",
+              "RelativeToolTip": "Usine_Core\\Models\\crmleadsource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:21:59.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CrmLeadSoDetail.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\CrmLeadSoDetail.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Models\\CrmLeadSoDetail.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\CrmLeadSoDetail.cs",
+              "RelativeToolTip": "Usine_Core\\Models\\CrmLeadSoDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T01:05:35.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CrmLeadQuotationDetail.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\CrmLeadQuotationDetail.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Models\\CrmLeadQuotationDetail.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\CrmLeadQuotationDetail.cs",
+              "RelativeToolTip": "Usine_Core\\Models\\CrmLeadQuotationDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T17:20:11.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CrmLeadEnquiryDetail.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\CrmLeadEnquiryDetail.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Models\\CrmLeadEnquiryDetail.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\CrmLeadEnquiryDetail.cs",
+              "RelativeToolTip": "Usine_Core\\Models\\CrmLeadEnquiryDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:41:15.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CRMLeadController.cs",
+              "DocumentMoniker": "C:\\Users\\Win10office\\Downloads\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMLeadController.cs",
+              "ToolTip": "C:\\Users\\Win10office\\Downloads\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMLeadController.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAlwO4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:59:30.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CallLogsController.cs",
+              "DocumentMoniker": "C:\\Users\\Win10office\\Downloads\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CallLogsController.cs",
+              "ToolTip": "C:\\Users\\Win10office\\Downloads\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CallLogsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:33:25.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ControllerActionInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\Win10office\\AppData\\Local\\Temp\\.vsdbgsrc\\4f9d1c51880accfe0baa2489491fa85e22827e5652c347195241a04ca5856d6f\\ControllerActionInvoker.cs",
+              "ToolTip": "C:\\Users\\Win10office\\AppData\\Local\\Temp\\.vsdbgsrc\\4f9d1c51880accfe0baa2489491fa85e22827e5652c347195241a04ca5856d6f\\ControllerActionInvoker.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAawPgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:08:29.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CRMSaleOrderController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMSaleOrderController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\crm\\CRMSaleOrderController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\crm\\CRMSaleOrderController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\crm\\CRMSaleOrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T07:34:53.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CrmRemainderDto.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\CrmRemainderDto.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\others\\dtos\\CrmRemainderDto.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\CrmRemainderDto.cs",
+              "RelativeToolTip": "Usine_Core\\others\\dtos\\CrmRemainderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:24:04.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CrmLeadSoLinesDetail.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\CrmLeadSoLinesDetail.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Models\\CrmLeadSoLinesDetail.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\CrmLeadSoLinesDetail.cs",
+              "RelativeToolTip": "Usine_Core\\Models\\CrmLeadSoLinesDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T01:07:31.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CrmLeadQuotationLineDetail.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\CrmLeadQuotationLineDetail.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Models\\CrmLeadQuotationLineDetail.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\CrmLeadQuotationLineDetail.cs",
+              "RelativeToolTip": "Usine_Core\\Models\\CrmLeadQuotationLineDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T17:20:56.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "InvMaterialsController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\Inventory\\InvMaterialsController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\Inventory\\InvMaterialsController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\Inventory\\InvMaterialsController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\Inventory\\InvMaterialsController.cs",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAQwCMBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:24:24.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CrmLeadEnquiryLineDetail.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\CrmLeadEnquiryLineDetail.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Models\\CrmLeadEnquiryLineDetail.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\CrmLeadEnquiryLineDetail.cs",
+              "RelativeToolTip": "Usine_Core\\Models\\CrmLeadEnquiryLineDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:41:56.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "requestUploadMultiple.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\requestUploadMultiple.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\others\\dtos\\requestUploadMultiple.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\requestUploadMultiple.cs",
+              "RelativeToolTip": "Usine_Core\\others\\dtos\\requestUploadMultiple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:45:48.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CrmRemainder.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\CrmRemainder.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Models\\CrmRemainder.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\CrmRemainder.cs",
+              "RelativeToolTip": "Usine_Core\\Models\\CrmRemainder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:37:55.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "crmleadreminder.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\crmleadreminder.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Models\\crmleadreminder.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\crmleadreminder.cs",
+              "RelativeToolTip": "Usine_Core\\Models\\crmleadreminder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:19:12.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "accAccountsController.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\accounts\\accAccountsController.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Controllers\\accounts\\accAccountsController.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Controllers\\accounts\\accAccountsController.cs",
+              "RelativeToolTip": "Usine_Core\\Controllers\\accounts\\accAccountsController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAALsBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:20:06.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "crmleadreminderdto.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\crmleadreminderdto.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\others\\dtos\\crmleadreminderdto.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\crmleadreminderdto.cs",
+              "RelativeToolTip": "Usine_Core\\others\\dtos\\crmleadreminderdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:23:11.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CrmCallTypeDto.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\CrmCallTypeDto.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\others\\dtos\\CrmCallTypeDto.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\CrmCallTypeDto.cs",
+              "RelativeToolTip": "Usine_Core\\others\\dtos\\CrmCallTypeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:01:18.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CrmCallTypes.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\CrmCallTypes.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Models\\CrmCallTypes.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\CrmCallTypes.cs",
+              "RelativeToolTip": "Usine_Core\\Models\\CrmCallTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:46:27.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "crmleadcity.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\crmleadcity.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Models\\crmleadcity.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\crmleadcity.cs",
+              "RelativeToolTip": "Usine_Core\\Models\\crmleadcity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T01:24:06.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "crmleadcitydto.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\crmleadcitydto.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\others\\dtos\\crmleadcitydto.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\crmleadcitydto.cs",
+              "RelativeToolTip": "Usine_Core\\others\\dtos\\crmleadcitydto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T01:25:22.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "crmleadsource.cs",
+              "DocumentMoniker": "C:\\Users\\Win10office\\AppData\\Local\\SourceServer\\2619bf7245dfde663a275bb48910b49e73ded084d28aa8a146fd41ed3ab94551\\Usine_Core\\Usine_Core\\Models\\crmleadsource.cs",
+              "ToolTip": "C:\\Users\\Win10office\\AppData\\Local\\SourceServer\\2619bf7245dfde663a275bb48910b49e73ded084d28aa8a146fd41ed3ab94551\\Usine_Core\\Usine_Core\\Models\\crmleadsource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:00:21.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CrmCallLogs.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\CrmCallLogs.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Models\\CrmCallLogs.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\CrmCallLogs.cs",
+              "RelativeToolTip": "Usine_Core\\Models\\CrmCallLogs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:35:43.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CrmCallLogsDto.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\CrmCallLogsDto.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\others\\dtos\\CrmCallLogsDto.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\CrmCallLogsDto.cs",
+              "RelativeToolTip": "Usine_Core\\others\\dtos\\CrmCallLogsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:35:57.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "crmtelecallleadcust.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\crmtelecallleadcust.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\Models\\crmtelecallleadcust.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\Models\\crmtelecallleadcust.cs",
+              "RelativeToolTip": "Usine_Core\\Models\\crmtelecallleadcust.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:15:31.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "crmtelecallleadcustdto.cs",
+              "DocumentMoniker": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\crmtelecallleadcustdto.cs",
+              "RelativeDocumentMoniker": "Usine_Core\\others\\dtos\\crmtelecallleadcustdto.cs",
+              "ToolTip": "D:\\latest_github\\github_ERP\\ERP\\ERP_sales_API\\ERP_sales_API\\Usine_Core\\Usine_Core\\others\\dtos\\crmtelecallleadcustdto.cs",
+              "RelativeToolTip": "Usine_Core\\others\\dtos\\crmtelecallleadcustdto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:28:38.58Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
