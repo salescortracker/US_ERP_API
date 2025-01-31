@@ -645,7 +645,7 @@ namespace Usine_Core.Controllers
             ser.servername = "192.168.29.53,49792";
             ser.username = "sa";
             ser.password = "C0rtr@ck3r@2024@0124";
-            ser.database = "SalesDemoDB";
+            ser.database = "USSalesDB";
             return ser;
         }
     }
